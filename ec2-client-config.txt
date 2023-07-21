@@ -1,0 +1,2 @@
+[client]
+webservice=http://hong-wang-photoapp-web-service-env.eba-t4pptmdv.us-east-2.elasticbeanstalk.com
